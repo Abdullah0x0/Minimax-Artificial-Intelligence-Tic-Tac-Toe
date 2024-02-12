@@ -1,6 +1,6 @@
 # Tic-Tac-Toe with AI Opponent
 
-This project enhances the classic Tic-Tac-Toe game by introducing an Artificial Intelligence (AI) opponent and the ability to choose a custom board size, ranging from the traditional 3x3 up to a more challenging 5x5 grid. Compete against an AI that utilizes a heuristic evaluation to make its moves, making each game engaging and unpredictable.
+This project enhances the classic Tic-Tac-Toe game by introducing an Artificial Intelligence (AI) opponent and the ability to choose a custom board size, ranging from the traditional 3x3 up to a more challenging 5x5 grid. Compete against an AI that utilizes the minimax algorithm and a heuristic evaluation to make its moves, making each game engaging and unpredictable.
 
 ## Features
 
