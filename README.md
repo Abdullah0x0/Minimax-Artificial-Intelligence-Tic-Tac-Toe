@@ -38,11 +38,3 @@ This project enhances the classic Tic-Tac-Toe game by introducing an Artificial 
 ## How It Works
 
 The game begins by prompting the player to choose a board size. The AI evaluates the board using a heuristic function, considering both its potential moves and the player's, to decide on the best course of action. The game alternates turns between the player and the AI until one emerges victorious or the board fills up, resulting in a draw.
-
-## Contributing
-
-Contributions to this project are welcome, from adding new features and enhancing the AI logic to fixing bugs and improving performance. Fork this repository and submit your pull requests to contribute.
-
-## License
-
-This Tic-Tac-Toe project is open-source and distributed under the [MIT License](https://opensource.org/licenses/MIT).
